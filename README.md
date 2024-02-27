@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @deshinikranasingha
 - 👀 I’m interested in programming and robotics 
-- 🌱 I’m currently learning in University of Sri Jayewardenepura faculty of engineering in department of mechanical engineering 
-- 💞️ I’m looking to collaborate on nothing any one
+- 🌱 I studied at the University of Sri Jayewardenepura Faculty of Engineering
 - 📫 How to reach me deshinikranasingha@gmail.com 
 
 <!---
